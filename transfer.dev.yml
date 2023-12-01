@@ -1,0 +1,14 @@
+version: 1
+tellus:
+  work:
+    id: 018c25d9-c042-7ea4-9b0d-a5b42b38f5ee
+    date_created: '2023-12-01T14:47:56.738Z'
+  workVersion:
+    id: 018c25d9-c042-7ea4-9b0d-a5b5820f313e
+    date_created: '2023-12-01T14:47:56.738Z'
+  submission:
+    id: 018c25d9-c119-7d16-9ccb-1cf03c85e031
+    date_created: '2023-12-01T14:47:56.952Z'
+  submissionVersion:
+    id: 018c25d9-c119-7d16-9ccb-1cef9922ad86
+    date_created: '2023-12-01T14:47:56.952Z'
