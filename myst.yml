@@ -87,7 +87,4 @@ site:
   nav:
     - title: MyST Docs
       url: https://mystmd.org/guide
-  actions:
-    - title: Notebooks Now!
-      url: https://data.agu.org/notebooks-now/
   template: article-theme
