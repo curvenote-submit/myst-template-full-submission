@@ -1,0 +1,14 @@
+version: 1
+agu:
+  work:
+    id: 018c343c-d12f-77f4-a4e4-3b89a2e9198f
+    date_created: '2023-12-04T09:50:50.159Z'
+  workVersion:
+    id: 018c343c-d12f-77f4-a4e4-3b8a97e00cce
+    date_created: '2023-12-04T09:50:50.159Z'
+  submission:
+    id: 018c343c-d323-7d15-9b19-21fdb64c6773
+    date_created: '2023-12-04T09:50:50.657Z'
+  submissionVersion:
+    id: 018c343c-d323-7d15-9b19-21fc8caabfd6
+    date_created: '2023-12-04T09:50:50.657Z'
