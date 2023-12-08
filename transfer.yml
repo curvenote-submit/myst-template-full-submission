@@ -1,14 +1,14 @@
 version: 1
 agu:
   work:
-    id: 018c343c-d12f-77f4-a4e4-3b89a2e9198f
+    id: NN0000
     date_created: '2023-12-04T09:50:50.159Z'
   workVersion:
-    id: 018c343c-d12f-77f4-a4e4-3b8a97e00cce
-    date_created: '2023-12-04T09:50:50.159Z'
+    id: 018c490b-a9d9-7fee-a970-2fa8426d95ce
+    date_created: '2023-12-08T10:49:10.361Z'
   submission:
     id: 018c343c-d323-7d15-9b19-21fdb64c6773
     date_created: '2023-12-04T09:50:50.657Z'
   submissionVersion:
-    id: 018c343c-d323-7d15-9b19-21fc8caabfd6
-    date_created: '2023-12-04T09:50:50.657Z'
+    id: 018c490b-ac27-70af-9422-e92f29987e39
+    date_created: '2023-12-08T10:49:10.948Z'
